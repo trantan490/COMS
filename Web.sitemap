@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="~/admin/Default.aspx" title="관리자 메인"  description="">
+		<siteMapNode url="~/main/visit/listVisit.aspx" title="메인으로" description="" />
+		<siteMapNode url="~/admin/visitData/visitDataList.aspx?type=visitData" title="내방 목록" description="" />
+		<siteMapNode url="~/admin/takeOutData/takeOutDataList.aspx" title="반출입 목록" description="" />
+    <siteMapNode url="~/main/securityCard/listSecCard.aspx?type=SecAdmin" title="출입(카드리더기)등록 목록" description="" />
+   	<siteMapNode url="" title="내방객 정보"  description="">
+			<siteMapNode url="~/admin/visitor/visitorList.aspx" title="내방객 목록"  description="" />
+			<siteMapNode url="~/admin/visitor/visitorRejectList.aspx" title="방문 거부자 목록"  description="">
+			</siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="권한 관리">
+			<!--<siteMapNode url="~/admin/approve/approveList.aspx" title="결재자 관리" description="" />-->
+			<siteMapNode url="~/admin/manager/managerList.aspx" title="관리자 관리" description="" />
+			<siteMapNode url="~/admin/manager/securityList.aspx" title="보안요원 관리" description="" />
+      <siteMapNode url="~/admin/manager/freepassList.aspx" title="Free pass 관리" description="" />
+		</siteMapNode>
+		<siteMapNode url="" title="기본 코드 관리" description="">
+			<siteMapNode url="~/admin/takeOutObject/takeOutObjectList.aspx" title="반출 목적"  description="" />
+			<siteMapNode url="~/admin/takeOutPathStart/takeOutPathStartList.aspx" title="반출 경로 시작지점"  description="" />
+			<siteMapNode url="~/admin/takeOutPathEnd/takeOutPathEndList.aspx" title="반출 경로 목적지점"  description="" />
+			<siteMapNode url="~/admin/disApprovalCategory/disApprovalCategoryList.aspx" title="불가 사유"  description="" />
+			<siteMapNode url="~/admin/unit/unitList.aspx" title="단위"  description="" />
+			<siteMapNode url="~/admin/takeOutItemCategory/takeOutItemCategoryList.aspx" title="물품 분류"  description="" />
+			<siteMapNode url="~/admin/car/carDataList.aspx" title="차량 관리"  description="" />
+			<siteMapNode url="~/admin/car/carCategoryList.aspx" title="차종 관리 "  description="" />
+			<siteMapNode url="~/admin/visitObject/visitObjectList.aspx" title="방문 목적" description="" />
+			<siteMapNode url="~/admin/office/officeList.aspx" title="건물명 관리" description="" />
+			<siteMapNode url="" title="업체 정보"  description="">
+				<siteMapNode url="~/admin/company/companyList.aspx" title="업체 목록 "  description="" />
+				<siteMapNode url="~/admin/company/requestList.aspx" title="등록 신청 관리"  description="">
+				</siteMapNode>
+			</siteMapNode>
+		</siteMapNode>
+	</siteMapNode>
+</siteMap>

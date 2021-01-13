@@ -1,0 +1,21 @@
+2020-11-04 08:29:51,710 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-11-04 08:29:51,718 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-11-04 08:29:51,729 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-11-04 08:29:51,730 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-11-04 08:29:51,730 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-11-04 08:29:51,730 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-11-04 08:29:51,730 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-11-04 08:29:51,735 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-11-04 08:29:51,735 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-11-04 08:29:51,735 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-11-04 08:29:51,735 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-11-04 08:29:51,736 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-11-04 08:29:51,738 [50] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-11-04 08:30:06,388 [50] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - =================START selectVisitDataList=================
+2020-11-04 08:30:06,389 [50] INFO  HanaMicron.COMS.SQLServerDAL.VisitData - start time = 2020-11-04 오전 8:30:06
+2020-11-04 08:30:06,389 [50] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - keyWord = visitorName
+2020-11-04 08:30:06,390 [50] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - key = 
+2020-11-04 08:30:06,391 [50] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - searchStartDate = 2020-11-03
+2020-11-04 08:30:06,391 [50] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - searchEndDate = 2020-11-04
+2020-11-04 08:30:06,779 [50] INFO  HanaMicron.COMS.SQLServerDAL.VisitData - end time = 2020-11-04 오전 8:30:06
+2020-11-04 08:30:06,779 [50] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - =================END selectVisitData=================

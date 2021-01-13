@@ -1,0 +1,250 @@
+2020-05-29 15:49:24,858 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:49:24,884 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:49:25,013 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:49:25,014 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:49:25,014 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:49:25,014 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:49:25,014 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:49:25,018 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:49:25,018 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:49:25,018 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:49:25,019 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:49:25,019 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:49:25,022 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:49:32,540 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:49:32,540 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:49:32,543 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:49:32,543 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:49:32,544 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:49:32,544 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:49:32,544 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:49:32,545 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:49:32,546 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:49:32,546 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:49:32,546 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:49:32,546 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:49:32,548 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:49:32,549 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsID=================
+2020-05-29 15:49:32,549 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:49:32,551 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START isPasswordMatch=================
+2020-05-29 15:49:32,551 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:49:32,552 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnpw = p@ssw0rd
+2020-05-29 15:49:32,556 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END isPasswordMatch=================
+2020-05-29 15:49:32,556 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:49:32,557 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:49:32,569 [5] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:49:55,693 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:49:55,695 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:49:55,699 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:49:55,699 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:49:55,699 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:49:55,699 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:49:55,699 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:49:55,703 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:49:55,703 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:49:55,703 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:49:55,703 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:49:55,703 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:49:55,706 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:49:55,766 [6] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - =================START selectVisitDataList=================
+2020-05-29 15:49:55,768 [6] INFO  HanaMicron.COMS.SQLServerDAL.VisitData - start time = 2020-05-29 오후 3:49:55
+2020-05-29 15:49:55,768 [6] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - keyWord = visitorName
+2020-05-29 15:49:55,768 [6] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - key = 
+2020-05-29 15:49:55,768 [6] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - searchStartDate = 
+2020-05-29 15:49:55,769 [6] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - searchEndDate = 
+2020-05-29 15:49:55,954 [6] INFO  HanaMicron.COMS.SQLServerDAL.VisitData - end time = 2020-05-29 오후 3:49:55
+2020-05-29 15:49:55,955 [6] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - =================END selectVisitData=================
+2020-05-29 15:52:34,762 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:52:34,763 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:52:34,766 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:52:34,766 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:52:34,766 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:52:34,766 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:52:34,766 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:52:34,769 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:52:34,769 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:52:34,769 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:52:34,770 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:52:34,770 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:52:34,772 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:52:34,801 [19] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - =================START selectVisitDataList=================
+2020-05-29 15:52:34,801 [19] INFO  HanaMicron.COMS.SQLServerDAL.VisitData - start time = 2020-05-29 오후 3:52:34
+2020-05-29 15:52:34,802 [19] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - keyWord = visitorName
+2020-05-29 15:52:34,802 [19] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - key = 
+2020-05-29 15:52:34,802 [19] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - searchStartDate = 
+2020-05-29 15:52:34,802 [19] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - searchEndDate = 
+2020-05-29 15:52:34,961 [19] INFO  HanaMicron.COMS.SQLServerDAL.VisitData - end time = 2020-05-29 오후 3:52:34
+2020-05-29 15:52:34,961 [19] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - =================END selectVisitData=================
+2020-05-29 15:54:14,173 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:54:14,173 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:54:14,185 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:54:14,185 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:54:14,186 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:54:14,186 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:54:14,186 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:54:14,188 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:54:14,189 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:54:14,189 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:54:14,189 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:54:14,190 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:54:14,191 [6] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:57:45,559 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:57:45,575 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:57:45,683 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:57:45,684 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:57:45,684 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:57:45,684 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:57:45,685 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:57:45,687 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:57:45,688 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:57:45,688 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:57:45,688 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:57:45,688 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:57:45,690 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:57:50,421 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:57:50,422 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:57:50,426 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:57:50,427 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:57:50,427 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:57:50,427 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:57:50,428 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:57:50,431 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:57:50,431 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:57:50,432 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:57:50,432 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:57:50,432 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:57:50,435 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:57:50,436 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsID=================
+2020-05-29 15:57:50,436 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 14
+2020-05-29 15:58:01,991 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:58:01,991 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:58:01,994 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:58:01,995 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:58:01,995 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:58:01,995 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:58:01,995 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:58:01,997 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:58:01,997 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:58:01,997 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:58:01,998 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:58:01,998 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:58:01,999 [27] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:58:08,425 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:58:08,426 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:58:08,429 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 15:58:08,429 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:58:08,430 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:58:08,430 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 15:58:08,430 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 15:58:08,431 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:58:08,431 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 15:58:08,431 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 15:58:08,432 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 15:58:08,432 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 15:58:08,434 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 15:58:08,434 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsID=================
+2020-05-29 15:58:08,435 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:58:08,438 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START isPasswordMatch=================
+2020-05-29 15:58:08,438 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:58:08,438 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnpw = p@ssw0rd
+2020-05-29 15:58:08,442 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END isPasswordMatch=================
+2020-05-29 15:58:08,443 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 15:58:08,443 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 15:58:08,448 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 16:01:28,313 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 16:01:28,313 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:01:28,317 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 16:01:28,317 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:01:28,317 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:01:28,317 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 16:01:28,317 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 16:01:28,319 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:01:28,320 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:01:28,320 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:01:28,320 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 16:01:28,320 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 16:01:28,322 [26] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:01:35,559 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 16:01:35,559 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:01:35,562 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 16:01:35,562 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:01:35,563 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:01:35,563 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 16:01:35,563 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 16:01:35,564 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:01:35,564 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:01:35,565 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:01:35,565 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 16:01:35,565 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 16:01:35,567 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:01:35,567 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsID=================
+2020-05-29 16:01:35,568 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 16:01:35,569 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START isPasswordMatch=================
+2020-05-29 16:01:35,570 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 16:01:35,570 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnpw = p@ssw0rd
+2020-05-29 16:01:35,573 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END isPasswordMatch=================
+2020-05-29 16:01:35,573 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 16:01:35,573 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 16:01:35,577 [29] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 16:01:51,359 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 16:01:51,361 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 16:01:51,365 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 16:01:51,365 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:01:51,365 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 16:01:51,365 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 16:01:51,366 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 16:01:51,368 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:01:51,368 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:01:51,368 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 1191214
+2020-05-29 16:01:51,368 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 16:01:51,368 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 16:01:51,371 [28] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:01:51,404 [28] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - =================START selectVisitDataList=================
+2020-05-29 16:01:51,406 [28] INFO  HanaMicron.COMS.SQLServerDAL.VisitData - start time = 2020-05-29 오후 4:01:51
+2020-05-29 16:01:51,406 [28] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - keyWord = visitorName
+2020-05-29 16:01:51,406 [28] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - key = 
+2020-05-29 16:01:51,407 [28] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - searchStartDate = 
+2020-05-29 16:01:51,407 [28] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - searchEndDate = 
+2020-05-29 16:01:51,584 [28] INFO  HanaMicron.COMS.SQLServerDAL.VisitData - end time = 2020-05-29 오후 4:01:51
+2020-05-29 16:01:51,584 [28] DEBUG HanaMicron.COMS.SQLServerDAL.VisitData - =================END selectVisitData=================
+2020-05-29 16:03:38,230 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 16:03:38,244 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:38,367 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 16:03:38,369 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:03:38,370 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:38,371 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 16:03:38,371 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 16:03:38,374 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:03:38,374 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:03:38,375 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:38,375 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 16:03:38,376 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 16:03:38,378 [17] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:03:48,642 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 16:03:48,642 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:48,646 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 16:03:48,646 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:03:48,646 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:48,646 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 16:03:48,646 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 16:03:48,648 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:03:48,649 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:03:48,649 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:48,649 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 16:03:48,649 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 16:03:48,651 [19] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:03:48,847 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START selectEmployee=================
+2020-05-29 16:03:48,847 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:48,850 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END selectEmployee=================
+2020-05-29 16:03:48,851 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:03:48,851 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:48,851 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 1
+2020-05-29 16:03:48,851 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 0
+2020-05-29 16:03:48,853 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:03:48,853 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsApprovor=================
+2020-05-29 16:03:48,854 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = 
+2020-05-29 16:03:48,854 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isVisit = 0
+2020-05-29 16:03:48,854 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - isTakeOut = 1
+2020-05-29 16:03:48,856 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================END existsApprovor=================
+2020-05-29 16:03:48,857 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - =================START existsID=================
+2020-05-29 16:03:48,857 [9] DEBUG HanaMicron.COMS.SQLServerDAL.Employee - upnid = sdf
